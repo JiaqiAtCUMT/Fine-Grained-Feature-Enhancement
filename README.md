@@ -5,7 +5,7 @@ Yong Zhou , Sifan Wang, Jiaqi Zhao, Hancheng Zhu , and Rui Yao
 
 
 ## Citation
-This repo is based on OBBDetection.
+This repo is based on [OBBDetection](https://github.com/jbwang1997/OBBDetection).
 
 If you use this repo in your research, please cite the following information.
 
