@@ -7,8 +7,6 @@ Yong Zhou , Sifan Wang, Jiaqi Zhao, Hancheng Zhu , and Rui Yao
 ## Citation
 This repo is based on [OBBDetection](https://github.com/jbwang1997/OBBDetection).
 
-If you use this repo in your research, please cite the following information.
-
 This is the official implement of [Fine-Grained Feature Enhancement](https://ieeexplore.ieee.org/document/9744034). if it is used in your research, please cite the following information.
 
 ```
