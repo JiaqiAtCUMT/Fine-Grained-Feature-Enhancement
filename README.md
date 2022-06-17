@@ -9,7 +9,7 @@ This repo is based on OBBDetection.
 
 If you use this repo in your research, please cite the following information.
 
-This is the official implement of [Fine-Grained Feature Enhancement]. if it is used in your research, please cite the following information.
+This is the official implement of [Fine-Grained Feature Enhancement](https://ieeexplore.ieee.org/document/9744034). if it is used in your research, please cite the following information.
 
 ```
 @article{zhou2022fine,
