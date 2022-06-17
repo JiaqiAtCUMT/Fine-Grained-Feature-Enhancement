@@ -18,7 +18,7 @@ Please refer to [oriented_model_starting.md](docs/oriented_model_starting.md) fo
 ## Citation
 This repo is based on [OBBDetection](https://github.com/jbwang1997/OBBDetection).
 
-This is the official implement of [Fine-Grained Feature Enhancement](configs/obb/oriented_rcnn). if it is used in your research, please cite the following information.
+This is the official implement of [Fine-Grained Feature Enhancement](configs/obb/fine_grained_feature_enhancement). if it is used in your research, please cite the following information.
 
 ```
 @article{zhou2022fine,
